@@ -1,5 +1,5 @@
 # NoxQuantum
 
-Large AI models should run on much less hardware without losing the capabilities that matter. We want to find out whether ideas from quantum information, like tensor networks, can help.
+We build quantum and quantum-inspired algorithms for hard computational problems. We're starting with compact AI models, because they're a concrete problem worth solving, and we expect the work to reach well beyond them.
 
 [noxquantum.com](https://noxquantum.com)
