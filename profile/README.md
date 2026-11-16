@@ -1,5 +1,5 @@
 # NoxQuantum
 
-We build quantum and quantum-inspired algorithms for hard computational problems. We're starting with compact AI models, because they're a concrete problem worth solving, and we expect the work to reach well beyond them.
+Frontier AI on the hardware people have
 
 [noxquantum.com](https://noxquantum.com)
